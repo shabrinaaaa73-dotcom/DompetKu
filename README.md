@@ -46,9 +46,9 @@
 
 | | |
 |---|---|
-| **Nama** | *(Nama Lengkap)* |
-| **NIM** | *(NIM kamu)* |
-| **Kelas** | *(Kelas kamu)* |
+| **Nama** | *(Shabrina Yuspiana)* |
+| **NIM** | *(243303621210)* |
+| **Kelas** | *(4 Pagi A)* |
 | **Mata Kuliah** | Pemrograman Mobile |
 
 ---
