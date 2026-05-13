@@ -38,9 +38,12 @@
 
 > Berikut adalah bukti aplikasi DompetKu berjalan di perangkat:
 
-![Tampilan Utama](<img width="709" height="1600" alt="Praktek" src="https://github.com/user-attachments/assets/95fa6166-7b1e-40bd-9b75-89a842664fbc" />
-)
+## 📸 Capture Running Program
+Berikut adalah cuplikan / demo dari aplikasi saat dijalankan:
 
+![Demo Aplikasi](<img width="709" height="1600" alt="home" src="https://github.com/user-attachments/assets/3fff66bb-b922-4bb7-a8aa-b0300730fd78" />
+
+)
 
 ## 👨‍💻 Identitas Mahasiswa
 
